@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/david-abou-17-06-2020%20/static/css/main.e84db866.chunk.css",
+    "main.js": "/david-abou-17-06-2020%20/static/js/main.2e3e5f20.chunk.js",
+    "main.js.map": "/david-abou-17-06-2020%20/static/js/main.2e3e5f20.chunk.js.map",
+    "runtime-main.js": "/david-abou-17-06-2020%20/static/js/runtime-main.00df18f0.js",
+    "runtime-main.js.map": "/david-abou-17-06-2020%20/static/js/runtime-main.00df18f0.js.map",
+    "static/js/2.26424511.chunk.js": "/david-abou-17-06-2020%20/static/js/2.26424511.chunk.js",
+    "static/js/2.26424511.chunk.js.map": "/david-abou-17-06-2020%20/static/js/2.26424511.chunk.js.map",
+    "index.html": "/david-abou-17-06-2020%20/index.html",
+    "precache-manifest.22b6a21bfc04c9fb9baeb77f700ca9f5.js": "/david-abou-17-06-2020%20/precache-manifest.22b6a21bfc04c9fb9baeb77f700ca9f5.js",
+    "service-worker.js": "/david-abou-17-06-2020%20/service-worker.js",
+    "static/css/main.e84db866.chunk.css.map": "/david-abou-17-06-2020%20/static/css/main.e84db866.chunk.css.map",
+    "static/js/2.26424511.chunk.js.LICENSE.txt": "/david-abou-17-06-2020%20/static/js/2.26424511.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.00df18f0.js",
+    "static/js/2.26424511.chunk.js",
+    "static/css/main.e84db866.chunk.css",
+    "static/js/main.2e3e5f20.chunk.js"
+  ]
+}
